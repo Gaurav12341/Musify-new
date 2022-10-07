@@ -945,7 +945,7 @@ header .songSide .popularartists .item{
   header .left1 .content .check{
     display: flex;
     align-items: center;
-    margin-top: 10px;
+    /* margin-top: 10px; */
   }
 
   header .left1 .content .check span{
